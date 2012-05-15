@@ -1,0 +1,36 @@
+h1. Simple Gang's Clock in Rails
+
+&nbsp; !https://github.com/marcric/ror3gangsclock/wiki/gang.png! &nbsp; !https://github.com/marcric/ror3gangsclock/wiki/clock.png! &nbsp;&nbsp; !https://github.com/marcric/ror3gangsclock/wiki/rails3.png! 
+
+h3. What is it?
+
+* People are connected by internet all over the World
+* They are generally grouped in Gangs
+* They are in different Time Zones
+* A Web application pointing out each of my Gang members' Time Zone, would be nice.
+* I can see witch of my gang's member are probably awake.
+
+h3. How does it begun? Who is behind it?
+
+* I have had the idea in mid 2009.
+* It was based on a original 2008 work from "Satoshi Asakawa(ashbb on Twitter)":http://twitter.com/ashbb
+* Originally published "here(original gangsclock)":http://the-shoebox.org/apps/75, then evolved into "here(gangsclock2 on github)":https://github.com/ashbb/gangsclock2/ and "here(gangsclock3 on github)":https://github.com/ashbb/gangsclock3/
+* Now, in 2012 it is time to implement it in Rails 3.2.3.
+
+h3. Witch is the primary purpose on this first sprint?
+
+* A simple list where the user can see a list of the Gang members. 
+* The current user will be placed in the middle of the list. 
+* The current user UTC offset will be considered the center of the list. 
+* Lower UTC offset members will be listed before current user.
+* Higher UTC offset members will be listed after current user.
+
+ _*"Marcos Ricardo(MarcRic's Home)":http://marcric.com*_
+
+h2. License
+
+This project is released under the "Creative Commons(Creative Commons by-sa page)":http://creativecommons.org/licenses/by-sa/3.0/us/ License, including all CSS and design stuff.
+
+h2. Copyright
+
+Copyright (c) 2012. See License for details.
