@@ -1,6 +1,6 @@
 h1. Simple Gang's Clock in Rails
 
-&nbsp; !https://github.com/marcric/ror3gangsclock/wiki/gang.png! &nbsp; !https://github.com/marcric/ror3gangsclock/wiki/clock.png! &nbsp;&nbsp; !https://github.com/marcric/ror3gangsclock/wiki/rails3.png! 
+&nbsp; !https://github.com/marcric/SimpleGCR/wiki/gang.png! &nbsp; !https://github.com/marcric/SimpleGCR/wiki/clock.png! &nbsp;&nbsp; !https://github.com/marcric/SimpleGCR/wiki/rails3.png! 
 
 h3. What is it?
 
@@ -14,7 +14,7 @@ h3. How does it begun? Who is behind it?
 
 * I have had the idea in mid 2009.
 * It was based on a original 2008 work from "Satoshi Asakawa(ashbb on Twitter)":http://twitter.com/ashbb
-* Originally published in the former shoebox site, now "Hackety Hack":http://the-shoebox.org/apps/75, then evolved into "here(gangsclock2 on github)":https://github.com/ashbb/gangsclock2/ and "here(gangsclock3 on github)":https://github.com/ashbb/gangsclock3/
+* Originally published in the former shoebox site, now "Hackety Hack":http://hackety.com/, then evolved into "here(gangsclock2 on github)":https://github.com/ashbb/gangsclock2/ and "here(gangsclock3 on github)":https://github.com/ashbb/gangsclock3/
 * Now, in 2012 it is time to implement it in Rails 3.2.3.
 
 h3. Witch is the primary purpose on this first sprint?
