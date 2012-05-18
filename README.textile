@@ -19,11 +19,11 @@ h3. How does it begun? Who is behind it?
 
 h3. Primary purposes by sprint:
 
-h4. Sprint-00
+h4. Sprint-00 - COMPLETED
 
 * Basic Infra Structure
 
-h4. Sprint-01
+h4. Sprint-01 - DEVELOPMENT
 
 * A simple list where the user can see a list of the Gang members. 
 * The current user will be placed in the middle of the list. 
