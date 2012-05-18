@@ -7,3 +7,6 @@ h3. In this very first sprint we will:
 * Create the project
 * Create a mockup view
 * Get it working
+
+h3. The final Result would be something like this:
+!https://github.com/marcric/SimpleGCR/wiki/GCR_screenshot.png!
